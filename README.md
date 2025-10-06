@@ -73,7 +73,7 @@ Patterns this workflow is designed to surface include (examples):
 
 ## Conclusion & Business Impact
 
-A two-track approach—**predictive model** for timely saves and **interpretable model** for actionable drivers—enables:
+A two-track approach - **predictive model** for timely saves and **interpretable model** for actionable drivers—enables:
 - Prioritized **outreach lists** for the retention team
 - **Offer targeting** (e.g., data top-up, tariff match) based on driver patterns
 - Reduced **revenue leakage** from high-value churn
